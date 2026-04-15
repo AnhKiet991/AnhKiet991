@@ -20,7 +20,7 @@ Some of my key projects include:
 * MATLAB (DSP)
 
 **Hardware & Microcontrollers:** * Microchip PIC (PIC16F887, PIC18F4550)
-* FPGA (Altera / Nios II)
+* FPGA (Altera / Nios II/ Xilinx Basys 3)
 * DSP (DSK6416)
 
 **Software & EDA Tools:** * Quartus II & Qsys
